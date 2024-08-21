@@ -1,0 +1,12 @@
+C:\Users\henriquecarvalho\Documents\Henrique\Pippe Filter\Pippe Filter\bin\Debug\Pippe Filter.exe.config
+C:\Users\henriquecarvalho\Documents\Henrique\Pippe Filter\Pippe Filter\bin\Debug\Pippe Filter.exe
+C:\Users\henriquecarvalho\Documents\Henrique\Pippe Filter\Pippe Filter\bin\Debug\Pippe Filter.pdb
+C:\Users\henriquecarvalho\Documents\Henrique\Pippe Filter\Pippe Filter\bin\Debug\Pippe Filter.xml
+C:\Users\henriquecarvalho\Documents\Henrique\Pippe Filter\Pippe Filter\obj\Debug\Pippe Filter.vbprojAssemblyReference.cache
+C:\Users\henriquecarvalho\Documents\Henrique\Pippe Filter\Pippe Filter\obj\Debug\Pippe_Filter.Form1.resources
+C:\Users\henriquecarvalho\Documents\Henrique\Pippe Filter\Pippe Filter\obj\Debug\Pippe_Filter.Resources.resources
+C:\Users\henriquecarvalho\Documents\Henrique\Pippe Filter\Pippe Filter\obj\Debug\Pippe Filter.vbproj.GenerateResource.cache
+C:\Users\henriquecarvalho\Documents\Henrique\Pippe Filter\Pippe Filter\obj\Debug\Pippe Filter.vbproj.CoreCompileInputs.cache
+C:\Users\henriquecarvalho\Documents\Henrique\Pippe Filter\Pippe Filter\obj\Debug\Pippe Filter.exe
+C:\Users\henriquecarvalho\Documents\Henrique\Pippe Filter\Pippe Filter\obj\Debug\Pippe Filter.xml
+C:\Users\henriquecarvalho\Documents\Henrique\Pippe Filter\Pippe Filter\obj\Debug\Pippe Filter.pdb
